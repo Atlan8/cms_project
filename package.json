@@ -18,7 +18,7 @@
     "better-scroll": "^1.14.1",
     "blueimp-md5": "^2.10.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "happypack": "^5.0.1",
     "js-cookie": "^2.2.0",
